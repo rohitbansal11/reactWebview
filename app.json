@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "webview-example",
+    "name": "scholarops",
     "slug": "snack-cfadd1e0-e3dd-43fb-8d78-8343036c1c14",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,6 +21,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.scholarops.app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
